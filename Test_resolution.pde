@@ -53,7 +53,7 @@ void ourLoadImage(int num) {
     theimage=loadImage("http://i2.cdn.turner.com/cnnnext/dam/assets/150213095929-27-obama-0213-super-169.jpg");
     break;
   case 1:
-    theimage=loadImage("http://rgaaccelerator.com/connecteddevices/wp-content/uploads/2013/09/DanOSullivan1.jpg");
+    theimage=loadImage("https://tisch.nyu.edu/content/dam/tisch/itp/Faculty/dan-osullivan1.jpg.preset.square.jpeg");
     break;
 
   }
